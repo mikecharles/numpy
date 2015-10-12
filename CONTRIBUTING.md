@@ -28,4 +28,4 @@ If you are writing new C code, please follow the style described in
 
 Suggested ways to work on your development version (compile and run
 the tests without interfering with system packages) are described in
-``doc/source/dev/development_environment.rst``.
+[doc/source/dev/development_environment.rst](doc/source/dev/development_environment.rst).
